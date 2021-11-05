@@ -1,4 +1,5 @@
 ### Hi there 👋
+_Wanna be and android developer, and love learning_
 
 <!--
 **H0OE/H0OE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
