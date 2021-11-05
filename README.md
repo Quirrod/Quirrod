@@ -1,5 +1,5 @@
 ### Hi there 👋
-_Wanna be and android developer, and love learning_
+_Wanna be an android developer, and love learning as hobby I make videogames in LibGDX specially in kotlin_
 
 <!--
 **H0OE/H0OE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
