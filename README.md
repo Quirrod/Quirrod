@@ -16,6 +16,7 @@
 ## IdeasToMe
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=H0OE&repo=IdeasToMe&theme=dracula)](https://github.com/H0OE/IdeasToMe)
 - Are you with out ideas? Do you have an idea but you do not have the time to do or you do not how?, IdeasToMe can solve that problems
+- In Beta
 
 ## DoggieCare
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cricripaz&repo=DoggieCare&theme=dracula)](https://github.com/cricripaz/DoggieCare)
