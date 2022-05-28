@@ -1,6 +1,6 @@
 ### Hi everybody, I am Joel Jarro a Developer, and a person who likes create
 
-- I’m currently working, in a framework for android/ java for my University, and starting to create and App for 'Universidad Catolica Boliviana-Batallas'
+- I’m currently working, in a framework for android/ java for my University
 - I love to create things and I always available to collaborate
 - hoobies: Draw, 3D modeling, and play the guitar and piano, create videogames in woring one to realease
 
