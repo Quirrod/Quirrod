@@ -9,6 +9,10 @@
 ## Stats
 ![My stats](https://github-readme-stats.vercel.app/api?username=H0OE&hide=contribs,prs&theme=dracula)
 
+### Projects Deployed
+## Memory Game: Learn Japanese
+https://play.google.com/store/apps/details?id=com.jarrod.memorygame
+
 ### Some projects
 ## MovieLog
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=H0OE&repo=MovieLog&theme=dracula)](https://github.com/H0OE/MovieLog)
