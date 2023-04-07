@@ -15,10 +15,10 @@ https://play.google.com/store/apps/details?id=com.jarrod.memorygame
 
 ### Some projects
 ## MovieLog
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=H0OE&repo=MovieLog&theme=dracula)](https://github.com/H0OE/MovieLog)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Quirrod&repo=MovieLog&theme=dracula)](https://github.com/H0OE/MovieLog)
 - A simple and beatiful Movie directory
 ## IdeasToMe
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=H0OE&repo=IdeasToMe&theme=dracula)](https://github.com/H0OE/IdeasToMe)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Quirrod&repo=IdeasToMe&theme=dracula)](https://github.com/H0OE/IdeasToMe)
 - Are you with out ideas? Do you have an idea but you do not have the time to do or you do not how?, IdeasToMe can solve that problems
 - In Beta
 
