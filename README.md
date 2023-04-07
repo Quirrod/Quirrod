@@ -7,7 +7,7 @@
 <br/>
 
 ## Stats
-![My stats](https://github-readme-stats.vercel.app/api?username=H0OE&hide=contribs,prs&theme=dracula)
+![My stats](https://github-readme-stats.vercel.app/api?username=Quirrod&hide=contribs,prs&theme=dracula)
 
 ### Projects Deployed
 ## Memory Game: Learn Japanese
