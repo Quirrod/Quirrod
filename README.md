@@ -16,6 +16,9 @@
 https://play.google.com/store/apps/details?id=com.jarrod.memorygame
 
 ### Some projects
+## KnockNote
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Quirrod&repo=KnockNote&theme=dracula)](https://ensolver-challenge.vercel.app)
+- Taking Notes App
 ## MovieLog
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Quirrod&repo=MovieLog&theme=dracula)](https://github.com/H0OE/MovieLog)
 - A simple and beatiful Movie directory
