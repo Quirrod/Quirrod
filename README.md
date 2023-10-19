@@ -11,23 +11,19 @@
 ## Stats
 ![My stats](https://github-readme-stats.vercel.app/api?username=Quirrod&hide=contribs,prs&theme=dracula)
 
-### Projects Deployed
-## Memory Game: Learn Japanese
-https://play.google.com/store/apps/details?id=com.jarrod.memorygame
-
 ### Some projects
 ## KnockNote
+[See Deploy](https://ensolver-challenge.vercel.app)
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Quirrod&repo=KnockNote&theme=dracula)](https://ensolver-challenge.vercel.app)
 - Taking Notes App
-## MovieLog
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Quirrod&repo=MovieLog&theme=dracula)](https://github.com/H0OE/MovieLog)
-- A simple and beatiful Movie directory
-## IdeasToMe
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Quirrod&repo=IdeasToMe&theme=dracula)](https://github.com/H0OE/IdeasToMe)
-- Are you with out ideas? Do you have an idea but you do not have the time to do or you do not how?, IdeasToMe can solve that problems
-- In Beta
 
-## DoggieCare
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cricripaz&repo=DoggieCare&theme=dracula)](https://github.com/cricripaz/DoggieCare)
-- DoggieCare wants to reduce stray dogs, stray dogs can affect the enviroment and the health of people
-- In Beta
+## BugaBoo
+[See Deploy](https://bugaboo-kohl.vercel.app)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Quirrod&repo=bugaboo&theme=dracula)](https://github.com/H0OE/bugaboo)
+- A Page to share your code and ask for help
+
+## MovieLog
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Quirrod&repo=MovieLog&theme=dracula)](https://github.com/Quirrod/MovieLog)
+- A simple and beatiful Movie directory
