@@ -21,7 +21,7 @@
 ## BugaBoo
 [See Deploy](https://bugaboo-kohl.vercel.app)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Quirrod&repo=bugaboo&theme=dracula)](https://github.com/H0OE/bugaboo)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Quirrod&repo=bugaboo&theme=dracula)](https://github.com/Quirrod/bugaboo)
 - A Page to share your code and ask for help
 
 ## MovieLog
